@@ -1,0 +1,4 @@
+text,category,cleaned_text,category_encoded
+"I love programming in Python! It's amazing, isn't it?",positive,love programming python amazing isnt,1
+"Natural Language Processing is a complex field, but so interesting.",neutral,natural language processing complex field interesting,0
+"Data cleaning, lemmatization, and vectorization are essential steps in NLP.",positive,data cleaning lemmatization vectorization essential step nlp,1
